@@ -2,16 +2,19 @@ Zora
 Various
 -------------------
 
-A monarchical tribe of fish/shark people.
-
+A monarchical tribe of fish/shark people, zora come in freshwater and saltwater varieties, though certain traits persist. Zora stand tall, between five and seven feet,
+with most of their body length being their torsos, with relatively short legs holding them upright. Fins adorn their limbs and heads, and some Zora have tails, while others don't.
+Zora of note include Princess Ruto and Prince Sidon.
 
 Stats
 -------------------
-Plus1 con
-Plus2 int??
-Minus1 str??
+Con +2. Zora are hardy to the cold, dark pressure of the deep.
+Int +2.
+Str -2. Used to the buoyancy of the water, Zora are somewhat deficient on land.
 
 Additional Modifications
 -------------------
-Amphibious. While Zora are predominantly a water-based species, and require periodic soaking, they can walk on land just fine, if a little slowly. They can also breathe water and air.
-[spell-like abilities?]
+Amphibious. While Zora are predominantly a water-based species, and require periodic soaking, they can walk on land just fine, if a little slowly. They can also breathe both water and air.
+  Land speed = 20'.
+  Swim Speed = 45', Good maneuverability.
+Deep sight. Zora get darkvision 60'.
