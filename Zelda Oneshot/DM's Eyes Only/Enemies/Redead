@@ -1,0 +1,25 @@
+Game
+
+Speed = 10'
+
+DEFENSE------------------------------------
+HP / HP
+AC, CMD
+Initiative -4
+
+
+OFFENSE------------------------------------
+Scream ~ Sound-dependent. DC 16 Fort negates. Range = 10' Circle. On a failed save, the victim loses its next action.
+
+Grapple ~ CMB +10. On a successful grapple, the redead can use a Bite attack at full BAB. Afterwards, the victim gets an additional chance to break free.
+
+Bite ~ 1d20 + 6, 2d4 + 5, 20x2.
+
+
+BEHAVIOR-----------------------------------
+A moaning corpse, made of pure magic. If a creature or it get close enough to each other, the zombie will let out a piercing scream; failure to resist will cause the recipient to lose its next action.
+Its melee attack starts with a grab. If the grapple check is successful, it will then use a Bite attack on the victim, and inflict a mild drain of health.
+Redeads are often found in groups of 5-10.
+Undead traits.
+
+
