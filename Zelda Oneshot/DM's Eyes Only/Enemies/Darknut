@@ -17,6 +17,7 @@ Undead Characteristics?
 OFFENSE------------------------------------
 BAB, CMB
 Pendulum Blade ~ 1d20 + 8 to hit. 2d8 bludgeoning + 1d6 slashing.
+  Being hit by the Pendulum Blade causes the recipient to make a Fortitude save, DC = the damage it dealt; failure means the target is sent back 5', and prone.
 Shield Bash ~ 
 Rapier ~ 1d20 + 10 to hit. 2d6 slashing + 1d10 piercing.
 
