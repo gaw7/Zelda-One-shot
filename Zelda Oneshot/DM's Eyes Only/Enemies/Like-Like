@@ -1,16 +1,28 @@
-Game
+Ocarina
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 13
+AC = 13, CMD
+Initiative = -2
+Speed = 5'
+
+Immune to trip.
+For basic things is a slime/ooze.
+Mindless.
 
 
 OFFENSE------------------------------------
 BAB, CMB
 Attack 1
-Attack 2
+Vore ~ A Like-Like can attempt to Engulf a character as a combat maneuver check, with a CMB bonus = 12.
+  On a success, the character is engulfed for 1d3-1 rounds (minimum 1), after which he or she will be spat up.
+  For each round a character is inside a Like-Like, it can roll a special Steal/Disarm maneuver check, with a bonus = 11. This
+  can be to steal anything, including items being worn or held by the character. On a success, the item remains within the Like-Like
+  until it is defeated.
 
 
 BEHAVIOR-----------------------------------
+"Shield-eaters and world leaders have many likes alike."
+Like-Likes live in dark, moist places... or so you'd think, because the very first one you meet is in the Fire Temple.
+... That's all I've got.
