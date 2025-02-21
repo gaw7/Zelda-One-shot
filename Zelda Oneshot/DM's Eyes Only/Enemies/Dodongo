@@ -1,16 +1,22 @@
-Game
+Ocarina
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 40-45
+AC = 26, CMD
+Initiative -4
+Speed: 10'
+saves: unwise, sluggish, hardy.
+
+Immune to Fire.
 
 
 OFFENSE------------------------------------
-BAB, CMB
-Attack 1
-Attack 2
+Breath Attack (fire) ~ 15' cone. Save DC = 15 Reflex. 3d8 fire damage.
+Strongjaw Bite ~ 1d20 + 3, 2d6 force + 1d4 fire.
 
 
 BEHAVIOR-----------------------------------
+Dodongos are usually solitary creatures, only appearing at most in trios, and usually alone. They crawl along their bellies deep within mines and tunnels, and never far from geothermal activity.
+Their hide is near-impenetrable, except for a Weak Spot on their tails, which have an AC of 14. If a Dodongo is denied is dexterity, flat-footed, or a character specifies that he/she attack
+the tail (which requires being behind the dodongo), then this AC is used, instead. Discovering this requires a Nature check = 15.
