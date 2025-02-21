@@ -1,16 +1,25 @@
-Game
+Twilight
 
 
 DEFENSE------------------------------------
-HP / HP
+HP / 22
 AC, CMD
-Initiative
+Initiative = +2
 
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Pimp-smack ~ 1d20 + 8, natural attack. 1d6 + 3 bludgeoning.
 
 
 BEHAVIOR-----------------------------------
+Shadow Beasts are magically cursed Twili, mind-controlled into obedience towards their master.
+
+Shadow beasts are never alone, as they have a special ability, Sundown Screech.
+
+Stable Stasis: If a shadow beast would be reduced to 0 or fewer hitpoints, it instead goes to -1, and is stabilized.
+Sundown Screech: If a shadow beast finds itself as the last standing shadow beast in its group, it can (and will) use it's full action to screech.
+  All Shadow beasts within earshot will recover to full health, and stand up.
+  (stun the other creatures, for sound effect?)
+
+Light Sensitive.
