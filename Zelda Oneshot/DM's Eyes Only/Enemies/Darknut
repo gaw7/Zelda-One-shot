@@ -1,16 +1,38 @@
-Game
+Hyrule Fantasy Onward; Twilight.
+BOSS.
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 101
+AC = 22, CMD = 20
+Initiative = 6
+Speed = 20' (Heavy), 35' (Light)
 
+Fort = 20
+Ref = 10 (heavy), 17 (light)
+Will = 16
+
+Undead Characteristics?
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Pendulum Blade ~ 1d20 + 8 to hit. 2d8 bludgeoning + 1d6 slashing.
+Shield Bash ~ 
+Rapier ~ 1d20 + 10 to hit. 2d6 slashing + 1d10 piercing.
+
+the feat where you can take a 5' step immediately in order to keep somebody in range.
+Cleave.
+Power Attack.
 
 
 BEHAVIOR-----------------------------------
+Towering in between seven and eight feet tall, Darknuts are Large creatures, taking the appearance of suits of plate armor.
+Magical creatuers, vey little is known about these evil beings clad, or perhaps crafted from, tempered steel.
+
+The Darknut will begin play in full armor, in a mode called "Heavy." As the darknut takes more and more damage, the pieces of its outer shell
+will break off, revealing the lighter armor beneath. Once at half-health, the Darknut will throw its main sword and shield away, and enter "light" mode.
+
+In heavy mode, the darkneut will be opportunistic and defensive, both sword and shield raised high. However, when it enters Light mode, it will become much faster,
+as well as more aggressive, attacking with its sidearm, a "rapier".
+
+The pendulum blade is considered a heavy weapon, in that it requires 14 strength or more to use, and weighs 20 pounds. It is a large weapon.
