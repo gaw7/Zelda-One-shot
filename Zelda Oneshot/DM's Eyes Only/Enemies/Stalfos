@@ -2,15 +2,15 @@ Game
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 40
+AC = 22, CMD
+Initiative = +3
 
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Sword. +11 to hit, 2d6 +4 damage.
+can attack 2x.
 
 
 BEHAVIOR-----------------------------------
