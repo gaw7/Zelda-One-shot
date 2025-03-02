@@ -2,15 +2,18 @@ Game
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 24
+AC = 17, CMD
+Initiative = +3.
 
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Spin. +6 to hit, 1d6 + 3 damage.
+
+Bite. +8 to hit, 2d6 + 2 damage.
 
 
 BEHAVIOR-----------------------------------
+The "back" (top) of a skulltula has an AC of
+27. The underbelly is soft, however.
