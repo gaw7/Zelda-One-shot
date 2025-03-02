@@ -6,7 +6,7 @@ DEFENSE------------------------------------
 HP / 101
 AC = 22 (Heavy), 17 (Light); CMD = 20
 Initiative = 6
-Speed = 20' (Heavy), 35' (Light)
+Speed = 20' (Heavy), 30' (Light)
 
 Fort = 20
 Ref = 10 (heavy), 17 (light)
@@ -37,3 +37,5 @@ In heavy mode, the darkneut will be opportunistic and defensive, both sword and 
 as well as more aggressive, attacking with its sidearm, a "rapier".
 
 The pendulum blade is considered a heavy weapon, in that it requires 14 strength or more to use, and weighs 20 pounds. It is a large weapon.
+
+When a darknut reaches half HP, give it a second place in initiative.
