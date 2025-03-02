@@ -2,9 +2,9 @@ Twilight
 
 
 DEFENSE------------------------------------
-HP / 22
-AC, CMD
-Initiative = +2
+HP / 23
+AC = 19, CMD
+Initiative = +3
 
 
 OFFENSE------------------------------------
