@@ -2,15 +2,16 @@ Game
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 15
+AC = 12, CMD
+Initiative = +4 (ambush predator)
 
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Pounce = + 5 to hit, 1d8 dmg.
 
 
 BEHAVIOR-----------------------------------
+
+Drops include jelly of the associated color.
