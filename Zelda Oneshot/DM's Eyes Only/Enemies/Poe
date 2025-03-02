@@ -2,15 +2,17 @@ Game
 
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
-Initiative
+HP / 60
+AC = 18 CMD
+Initiative -2
 
+Miss chance 50%, as Poe are ethereal and spectral in nature.
 
 OFFENSE------------------------------------
 BAB, CMB
-Attack 1
-Attack 2
+Scythe +6 to hit, 3d4 slashing. Targets touch.
 
 
 BEHAVIOR-----------------------------------
+
+Killing gives you a poe's soul, which can be captured in a bottle.
