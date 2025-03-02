@@ -3,12 +3,12 @@ BOSS.
 
 
 DEFENSE------------------------------------
-HP / 101
-AC = 22 (Heavy), 17 (Light); CMD = 20
+HP / 156
+AC = 24 (Heavy), 19 (Light); CMD = 27
 Initiative = 6
 Speed = 20' (Heavy), 30' (Light)
 
-Fort = 20
+Fort = 23
 Ref = 10 (heavy), 17 (light)
 Will = 16
 
