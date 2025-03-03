@@ -2,14 +2,14 @@ Game
 
 
 DEFENSE------------------------------------
-HP / 40
-AC = 22, CMD
+HP / 44
+AC = 25 CMD
 Initiative = +3
 
 
 OFFENSE------------------------------------
 BAB, CMB
-Sword. +11 to hit, 2d6 +4 damage.
+Sword. +11 to hit, 2d6 +6 damage.
 can attack 2x.
 
 
