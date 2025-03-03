@@ -3,8 +3,8 @@ Game
 Speed = 10'
 
 DEFENSE------------------------------------
-HP / HP
-AC, CMD
+HP / 34
+AC = 20, CMD
 Initiative -4
 
 
