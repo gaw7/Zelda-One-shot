@@ -4,7 +4,7 @@ BOSS.
 
 DEFENSE------------------------------------
 HP / 156
-AC = 24 (Heavy), 19 (Light); CMD = 27
+AC = 30 (Heavy), 25 (Light); CMD = 27
 Initiative = 6
 Speed = 20' (Heavy), 30' (Light)
 
@@ -16,10 +16,10 @@ Undead Characteristics?
 
 OFFENSE------------------------------------
 BAB, CMB
-Pendulum Blade ~ 1d20 + 8 to hit. 2d8 bludgeoning + 1d6 slashing.
+Pendulum Blade ~ 1d20 + 12 to hit. 2d8+2 bludgeoning + 2d6+2 slashing.
   Being hit by the Pendulum Blade causes the recipient to make a Fortitude save, DC = the damage it dealt; failure means the target is sent back 5', and prone.
 Shield Bash ~ 
-Rapier ~ 1d20 + 10 to hit. 2d6 slashing + 1d10 piercing.
+Rapier ~ 1d20 + 14 to hit. 3d6 slashing + 2d10 piercing.
 
 the feat where you can take a 5' step immediately in order to keep somebody in range.
 Cleave.
